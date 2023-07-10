@@ -1,0 +1,87 @@
+body {
+	font-family: arial;
+	background: #9900cc;
+	-webkit-transition: background 0.7s;
+	-moz-transition: background 0.7s;
+	transition: background 0.7s;
+}
+
+button {
+
+	margin: 10px;
+	display: 
+
+}
+
+h1 {
+
+	display: inline-block;
+	padding: 0px;
+	margin: 0px 0px 20px 10px;*
+
+}
+
+em{
+
+	position: absolute;
+  	bottom: 10px;
+  	width: 50%;
+  
+
+}
+
+#orta {
+
+	border-radius: 5px;
+	height: 97%;
+	margin: 3%;
+	float: middle;
+	padding: 10% 5% 20% 5%;
+	background: #ffffff;
+
+}
+
+#cikk, #cikti3 {
+
+	display: inline-block;
+	height: 1%;
+	margin: 5px;
+	
+
+}
+
+#cik {
+
+	display: none;
+
+}
+
+#btun{
+
+	display: inline-block;
+}
+
+.hidelittle{
+
+	opacity: 0;
+	-webkit-transition: opacity 0.7s;
+	-moz-transition: opacity 0.7s;
+	transition: opacity 0.7s;
+
+}
+
+
+.hide{
+
+	display: none;
+
+}
+
+.show{
+
+	opacity: 1;
+	-webkit-transition: opacity 0.7s;
+	-moz-transition: opacity 0.7s;
+	transition: opacity 0.7s;
+
+}
